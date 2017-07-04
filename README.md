@@ -43,3 +43,6 @@
 * UML软件：StarUML
 * 应用服务器：Tomcat/SpringBoot
 * 资源服务器：Nginx/Apache
+
+# 技能证书
+* 英语六级
