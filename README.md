@@ -6,7 +6,7 @@
 # 个人信息
 * 孙晓聪_男_1996
 * 本科_北华大学_软件工程系
-* 工作经验：无--现在大四
+* 工作经验：无--现在大四(实习一年)
 * 技术博客：https://my.oschina.net/brainysoon
 * Github：https://github.com/brainysoon
 * 期望职位：Java程序员
@@ -21,7 +21,7 @@
 
 #### 增值税发票数据分析系统
 2017年3月-2017-7月，参与中国软件杯软件设计大赛，题目增值税发票分析系统。
-期间作为JavaWeb开发队员，参与整个系统的开发,将整个系统构建与SSM框架之上，引入了Shiro安全框架对整个系统进行安全控制，同时应用前瞻的Thymeleaf模板渲染引擎，项目暂时无法开源，可观看[演示视频](http://www.coolbhu.cn:8081/video/index.html)：http://www.coolbhu.cn:8081/video/index.html。
+期间作为JavaWeb开发队员，参与整个系统的开发,将整个系统构建与SSM框架之上，引入了Shiro安全框架对整个系统进行安全控制，同时应用前瞻的Thymeleaf模板渲染引擎，项目暂时无法开源，可观看[演示视频](http://www.coolbhu.cn:8081/video/index.html)：http://www.coolbhu.cn:8081/video/index.html
 
 # 技能清单
 > 下面列举出了在大学期间经常用到的技能和工具
