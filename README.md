@@ -11,3 +11,20 @@
 * Github：https://github.com/brainysoon
 * 期望职位：Java程序员
 * 期望薪资：2-5k，看公司
+
+# 工作经历
+> 无
+
+# 开源项目和作品
+## 开源项目
+
+# 技能清单
+> 下面列举出了在大学期间经常用到的技能
+* Web开发：JavaWeb/ASP.NET
+* Web框架：SSM/SSH
+* 前端框架：Bootstrap/JQuery
+* 数据库：MySql/SqlServer/Redies
+* 版本控制工具：Git(主要)/Svn
+* 构建工具：Maven/Gradle
+* 单元测试：JUnit/Mockito
+* 操作系统：Ubuntu(开发)/Centos(部署)
