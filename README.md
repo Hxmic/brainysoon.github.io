@@ -25,7 +25,7 @@
 * Web框架：SSM/SSH/Spring one-stop-shop
 * Android开发类库：okhttp/fastjson/butterknife
 * 前端框架：Bootstrap/JQuery
-* 数据库：MySql/SqlServer/Redies
+* 数据库：MySql/SqlServer/redis
 * 版本控制工具：Git(主要)/Svn
 * 构建工具：Maven/Gradle
 * 单元测试：JUnit/Mockito
@@ -33,3 +33,4 @@
 * IDE：Idea/MyEclipse/WebStorm/Atom
 * UML软件：StarUML
 * 应用服务器：Tomcat/SpringBoot
+* 资源服务器：Nginx/Apache
