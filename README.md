@@ -10,7 +10,8 @@
 * 技术博客：https://my.oschina.net/brainysoon
 * Github：https://github.com/brainysoon
 * 期望职位：Java程序员
-* 期望薪资：2-5k，看公司
+* 期望薪资：3-5k
+* 愿景：我想把青春献给，找个好公司，一起成长
 
 # 开源项目和作品
 ## 开源项目
@@ -30,6 +31,7 @@
 * Web开发：JavaWeb
 * 移动开发：Android
 * Web框架：SSM/SSH/Spring one-stop-shop
+* 渲染：Jsp&Jstl/Thymeleaf/freemaker
 * Android开发类库：okhttp/fastjson/butterknife
 * 前端框架：Bootstrap/JQuery
 * 数据库：MySql/SqlServer/redis
