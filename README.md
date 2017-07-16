@@ -10,7 +10,6 @@
 * Github：https://github.com/brainysoon
 * 期望职位：Java程序员
 * 期望薪资：3-5k
-* 愿景：我想把青春献给，找个好公司，一起成长
 
 # 开源项目和作品
 ## 开源项目
